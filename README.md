@@ -1,7 +1,7 @@
 # **Git et Github**
 
 - README personnalisé
-- Emoji :ocotocat: :shiptit:
+- Emoji :octocat: :shipit:
 - Tableau
 
 | Left columns  | Right columns |
